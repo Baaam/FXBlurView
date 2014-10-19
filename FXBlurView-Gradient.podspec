@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "FXBlurView Gradient"
+  s.name             = "FXBlurViewGradient"
   s.version          = "1.7"
   s.summary          = "UIView subclass that replicates the iOS 7 realtime background blur effect with ability to add a gradient, but works on iOS 5 and above."
   s.description      = "UIView subclass that replicates the iOS 7 realtime background blur effect with ability to add a gradient, but works on iOS 5 and above."
